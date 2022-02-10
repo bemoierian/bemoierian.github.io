@@ -195,7 +195,7 @@ section{
 @media(max-width:767px)
 {
     .main-sec{
-        background-position-x: -350px;
+        background-position-x: 44%;
     }
 }
 
@@ -426,6 +426,7 @@ section{
 @media(max-width:767px)
 {
     .skills-card{
+        margin: 5px;
         padding: 5px;
     }
 }
